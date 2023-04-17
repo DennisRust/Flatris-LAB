@@ -18,7 +18,7 @@ variables:
   resourceGroupName: 'test-bcRG'
  
   # Environment name
-  environmentName: 'test-bc'
+  environmentName: 'DennisRustCourse'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
