@@ -15,7 +15,7 @@ variables:
   webAppName: 'DennisRustCourse'
   
   # Resource group
-  resourceGroupName: 'test-bcRG'
+  resourceGroupName: 'ASP-testbcRG-9b57'
  
   # Environment name
   environmentName: 'DennisRustCourse'
